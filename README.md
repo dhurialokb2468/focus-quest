@@ -4,7 +4,6 @@
 [![Vite](https://img.shields.io/badge/Vite-8.1-646CFF?logo=vite)](https://vite.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-v4.0-38BDF8?logo=tailwindcss)](https://tailwindcss.com/)
 [![Web Audio API](https://img.shields.io/badge/Audio-Web_Audio_API-f59e0b)](#-procedural-web-audio-soundscapes)
-[![License](https://img.shields.io/badge/License-MIT-emerald)](#-license)
 
 > **Gamified Deep-Work RPG Productivity App based on the Pomodoro Principle.**
 
@@ -20,7 +19,6 @@
 - [🏗️ Project Structure](#%EF%B8%8F-project-structure)
 - [⚡ Tech Stack](#-tech-stack)
 - [🚀 Local Installation & Quick Start](#-local-installation--quick-start)
-- [📜 License](#-license)
 
 ---
 
@@ -179,9 +177,3 @@ focus-quest/
    ```bash
    npm run preview
    ```
-
----
-
-## 📜 License
-
-Distributed under the MIT License. Built for fun! ⚔️🏰

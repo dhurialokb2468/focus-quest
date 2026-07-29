@@ -15,7 +15,7 @@
 
 - [✨ Key Features](#-key-features)
 - [🎮 Core Game Loop](#-core-game-loop)
-- [🤖 Human-in-the-Loop (HITL) with Antigravity AI](#-human-in-the-loop-hitl-with-antigravity-ai)
+- [🤖 Built with Antigravity AI](#-built-with-antigravity-ai)
 - [🏗️ Project Structure](#%EF%B8%8F-project-structure)
 - [⚡ Tech Stack](#-tech-stack)
 - [🚀 Local Installation & Quick Start](#-local-installation--quick-start)
@@ -81,18 +81,9 @@ graph TD
 
 ---
 
-## 🤖 Human-in-the-Loop (HITL) with Antigravity AI
+## 🤖 Built with Antigravity AI
 
-Focus Quest was created during a short development sprint pairing step-by-step with **Google Antigravity AI**.
-
-### The Collaboration Model:
-* **Human-in-the-Loop (HITL) Role:** Setting the game concept, testing real-time browser UX, steering mechanics (such as noticing static monsters and designing active Citadel Wall HP degradation), and refining visual polish.
-* **Antigravity AI Role:** Fast technical execution—writing procedural Web Audio synthesis algorithms, coding 60 FPS HTML5 Canvas 2D math, setting up Tailwind styling, and managing React state persistence.
-
-### Key Takeaways on HITL:
-1. **AI handles speed; Humans handle taste & intent:** AI generates algorithms instantly, but humans ensure the app actually feels intuitive and engaging to use.
-2. **Co-creation beats one-shot prompting:** Testing live in the browser and refining workflow edge cases turn raw code into a polished product.
-3. **Shift from coder to creative director:** Less energy spent fighting syntax/boilerplate, allowing full focus on product vision and user experience.
+Focus Quest was created by pairing step-by-step with **Google Antigravity AI**. Antigravity handled the technical setup—writing procedural Web Audio synthesis algorithms, coding 60 FPS HTML5 Canvas 2D math, setting up Tailwind styling, and managing React state persistence.
 
 ---
 
